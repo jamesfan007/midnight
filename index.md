@@ -6,6 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 [readme](./README.html).
+[myworld](./docs/myworld.html).
 
 There should be whitespace between paragraphs.
 
